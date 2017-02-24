@@ -13,6 +13,7 @@ namespace MvcApplicationTest.Controllers
         public IEnumerable<string> Get()
         {
         // for testing
+                // for testing
             return new string[] { "value1", "value2" };
         }
 
