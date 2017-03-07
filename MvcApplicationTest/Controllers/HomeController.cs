@@ -10,6 +10,7 @@ namespace MvcApplicationTest.Controllers
     {
         public ActionResult Index()
         {
+            //Added on 3-7-2017 for testing
             return View();
         }
     }
